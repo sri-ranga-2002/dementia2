@@ -10,7 +10,7 @@ import numpy as np
 #   loading model from local
 #-------------------------------------------------------------------------------
 
-config = read_yaml("config/config.yaml")
+config = read_yaml("/workspaces/dementia2/config/config.yaml")
 
 artifacts_dir = config["artifacts"]["artifacts_dir"]
 model_dir = config["artifacts"]["model"]["model_dir"]
