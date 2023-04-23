@@ -6,7 +6,7 @@ Data:
   
 
 artifacts: 
-  artifacts_dir: artifacts
+  artifacts_dir: /workspaces/dementia2/artifacts
   data_local_dir: Data_archive
   raw_data_dir: dementia_dataset
   #aqi_data_dir: AQI
